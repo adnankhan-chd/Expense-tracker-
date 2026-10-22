@@ -1,0 +1,5 @@
+reflex>=0.8.0,<0.9
+firebase-admin>=6.5.0,<8
+google-genai>=1.0.0,<2
+python-dotenv>=1.0.0,<2
+requests>=2.31.0,<3
